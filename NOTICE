@@ -1,12 +1,15 @@
 This project is a derivative of the Plus4Serial project by SukkoPera:
 https://github.com/SukkoPera/Plus4Serial
 
-Changes include:
-- Adaptation for Commodore 64 User Port
-- Connector footprint changes
-- Signal remapping
-- Documentation updates
+The original Plus4Serial documentation, schematics, and PCB design are
+© SukkoPera 2022 and licensed under the Creative Commons
+Attribution–NonCommercial–ShareAlike 4.0 International License.
 
-All original work remains © its respective authors.
+This repository currently contains preliminary work adapting the design
+for the Commodore 64 User Port, including documentation and exploratory
+changes.
 
-This project is licensed under the CERN Open Hardware Licence v1.2.
+NO COMMERCIAL USE IS PERMITTED at this time.
+
+This notice will be updated if alternative licensing permission is
+granted by the original author.
