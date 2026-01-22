@@ -17,7 +17,7 @@ This project is licensed under the **CERN Open Hardware Licence Version 2 – St
 All modifications and documentation in this repository © Analog-Node 2026.
 
 # Status
-Current limitations: This version currently contains legacy Plus4Serial KiCad files; redesign pending” if that’s accurate.
+Current limitations: This version currently contains legacy Plus4Serial KiCad files; redesign pending.
 
 # Legacy Plus4Serial Files
 
