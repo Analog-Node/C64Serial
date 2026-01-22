@@ -21,6 +21,11 @@ separately authorized by the original author.
 The maintainers of this repository are in communication with the original
 author regarding potential alternative licensing for future versions.
 
+# Status
+Licensing pending — awaiting upstream permission for commercial use.
+
+### Current limitations
+This version currently contains legacy Plus4Serial KiCad files; redesign pending” if that’s accurate.
 ___
 
 # Plus4Serial
