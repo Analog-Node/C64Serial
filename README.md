@@ -20,4 +20,4 @@ All modifications and documentation in this repository © Analog-Node 2026.
 Current limitations: This version currently contains legacy Plus4Serial KiCad files; redesign pending.
 
 # Thanks
-Thank you to SukkoPera
+Thank you to SukkoPera - Please support him [@Ko-fi](https://ko-fi.com/L3L0U18L)
