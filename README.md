@@ -6,6 +6,23 @@ C64Serial is an Open Hardware Serial Port Adapter that plugs into the Commodore 
 Background material and design references can be found in the
 [`docs/`](docs/) directory.
 
+## License
+
+This project is a derivative work based on **Plus4Serial** by SukkoPera:
+https://github.com/SukkoPera/Plus4Serial
+
+The original work and this derivative are currently licensed under the
+**Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International
+License (CC BY-NC-SA 4.0)**.
+
+Commercial use, manufacturing, or sale is **not permitted** unless
+separately authorized by the original author.
+
+The maintainers of this repository are in communication with the original
+author regarding potential alternative licensing for future versions.
+
+___
+
 # Plus4Serial
 Plus4Serial is an Open Hardware Serial Port Adapter that plugs into the Commodore Plus/4 User Port, turning it into a fully-functional [RS-232 interface](https://en.wikipedia.org/wiki/RS-232).
 
