@@ -8,24 +8,16 @@ Design notes, references, and planning documents are available in the
 
 ## License
 
-This project is a derivative work based on **Plus4Serial** by SukkoPera:
+This project is a derivative of **Plus4Serial** by SukkoPera:
 https://github.com/SukkoPera/Plus4Serial
 
-The original work and this derivative are currently licensed under the
-**Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International
-License (CC BY-NC-SA 4.0)**.
+The NonCommercial clause has been waived for this derivative.  
+This project is licensed under the **CERN Open Hardware Licence Version 2 – Strongly Reciprocal (CERN-OHL-S)**.
 
-Commercial use, manufacturing, or sale is **not permitted** unless
-separately authorized by the original author.
-
-The maintainers of this repository are in communication with the original
-author regarding potential alternative licensing for future versions.
+All modifications and documentation in this repository © Analog-Node 2026.
 
 # Status
-Licensing pending — awaiting upstream permission for commercial use.
-
-### Current limitations
-This version currently contains legacy Plus4Serial KiCad files; redesign pending” if that’s accurate.
+Current limitations: This version currently contains legacy Plus4Serial KiCad files; redesign pending” if that’s accurate.
 ___
 
 # Plus4Serial
