@@ -18,14 +18,14 @@ All modifications and documentation in this repository © Analog-Node 2026.
 
 # Status
 Current limitations: This version currently contains legacy Plus4Serial KiCad files; redesign pending” if that’s accurate.
-___
+
 # Legacy Plus4Serial Files
 
 These files are the original sources from SukkoPera's Plus4Serial project,
 used as a reference for the C64Serial derivative.
 
 License: CC BY-NC-SA 4.0 (upstream); see root LICENSE for derivative license.
----
+
 # Plus4Serial
 Plus4Serial is an Open Hardware Serial Port Adapter that plugs into the Commodore Plus/4 User Port, turning it into a fully-functional [RS-232 interface](https://en.wikipedia.org/wiki/RS-232).
 
