@@ -1,15 +1,8 @@
-This project is a derivative of the Plus4Serial project by SukkoPera:
+This project is a derivative of Plus4Serial by SukkoPera:
 https://github.com/SukkoPera/Plus4Serial
 
-The original Plus4Serial documentation, schematics, and PCB design are
-© SukkoPera 2022 and licensed under the Creative Commons
-Attribution–NonCommercial–ShareAlike 4.0 International License.
+SukkoPera has waived the NonCommercial restriction for contributions
+by Analog-Node. This repository is now licensed under the
+CERN Open Hardware Licence Version 2 – Strongly Reciprocal (CERN-OHL-S).
 
-This repository currently contains preliminary work adapting the design
-for the Commodore 64 User Port, including documentation and exploratory
-changes.
-
-NO COMMERCIAL USE IS PERMITTED at this time.
-
-This notice will be updated if alternative licensing permission is
-granted by the original author.
+All modifications in this repository © Analog-Node 2026.
