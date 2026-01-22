@@ -1,6 +1,4 @@
 # C64Serial
-
-# C64Serial
 C64Serial is an Open Hardware Serial Port Adapter that plugs into the Commodore 64 User Port, turning it into a fully-functional [RS-232 interface](https://en.wikipedia.org/wiki/RS-232).
 
 ## Documentation
