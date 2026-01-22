@@ -3,7 +3,7 @@ C64Serial is an Open Hardware Serial Port Adapter that plugs into the Commodore 
 
 ## Documentation
 
-Background material and design references can be found in the
+Design notes, references, and planning documents are available in the
 [`docs/`](docs/) directory.
 
 ## License
