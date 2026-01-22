@@ -1,34 +1,44 @@
 # References
 
+This document lists external resources used as technical references for
+the C64Serial project. Inclusion here does not imply code or design reuse
+unless explicitly stated.
+
+---
+
 ## Upstream Project
 
 - **Plus4Serial** by SukkoPera  
   https://github.com/SukkoPera/Plus4Serial  
-  Original open-hardware project this design is forked from.
-  Used as the basis for RS-232 level shifting and PCB layout conventions.
+  Original project used as the starting point for this repository.
+  Currently licensed under CC BY-NC-SA 4.0.
 
-## C64 User Port RS-232 Designs
+---
 
-- **BulkyModem (RS-232 section)**  
-  https://github.com/tebl/BulkyModem  
-  Reference implementation of a working C64 user-port RS-232 interface.
+## Commodore 64 User Port
 
-- **Zimmers.net Commodore Archive – RS-232 Projects**  
+- C64 User Port documentation  
+  https://www.c64-wiki.com/wiki/User_Port
+
+- Hardware Book – C64 RS-232 via User Port  
+  https://www.hardwarebook.info/C64_RS232_User_Port
+
+---
+
+## Historical RS-232 Designs
+
+- Zimmers.net Commodore Archive – RS-232 projects  
   https://www.zimmers.net/anonftp/pub/cbm/documents/projects/rs232/  
-  Collection of historical C64 RS-232 schematics and interface designs,
-  including UP9600 variants.
+  Archive of historical schematics and notes related to RS-232 interfaces.
 
-## Technical References
+---
 
-- **C64 User Port Pinout**  
-  https://www.c64-wiki.com/wiki/User_Port  
-  Official documentation of the C64 user port signals.
-
-- **UP9600 Notes**  
-  https://www.pagetable.com/?p=1656  
-  Description of alternative pin usage enabling reliable 9600 baud operation.
-
-## Electrical References
+## Technical Notes
 
 - MAX232 / MAX3232 datasheets  
-  Used for RS-232 voltage level conversion.
+  Used for understanding RS-232 voltage level conversion and charge-pump
+  requirements.
+
+- UP9600 wiring notes  
+  https://www.pagetable.com/?p=1656  
+  Alternative user-port pin usage enabling higher baud rates.
