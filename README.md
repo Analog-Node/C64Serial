@@ -16,11 +16,11 @@ This project is licensed under the **CERN Open Hardware Licence Version 2 – St
 
 All modifications and documentation in this repository © Analog-Node 2026.
 
-# Status
+## Status
 Current limitations: This version currently contains legacy Plus4Serial KiCad files; redesign pending.
 
-# Thanks
+## Thanks
 Thank you to SukkoPera - please support his work: [Ko-fi](https://ko-fi.com/L3L0U18L)
 
-# Support
-If you wish to support this work, you may do so here: [Ko-fi](https://ko-fi.com/analognode)
+## Support
+If you wish to support Analog Node and encourage this work, you may do so here: [Ko-fi](https://ko-fi.com/analognode)
