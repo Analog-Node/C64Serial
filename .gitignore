@@ -1,0 +1,8 @@
+# KiCAD temporary/backups
+*.bak
+*.tmp
+*.kicad_pro~
+*.kicad_sch~
+*.kicad_pcb~
+*.kicad_prl
+hardware/C64Serial-backups/
